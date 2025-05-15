@@ -2,7 +2,6 @@ body { /* bisa di sesuaikan sesuaikan (pastikan width tetap 100vw) */
     margin: 0;
     padding: 0;
     width: 100vw;
-    height: 1000px;
 }
 
 .navbar { /* komponen utama navbar, sebisa mungkin jangan di ubah */
